@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T07:09:01.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="O29j5aPKI2aEsKKVh0eu" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T11:41:15.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="eGBTZQMjfZq-_p2drpW6" version="20.2.5" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1221" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,15 +27,6 @@
         <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="115" y="325" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0" parent="2" target="7" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="60" y="350" as="sourcePoint" />
-            <mxPoint x="260" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="30" y="250" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D4_bZYPueLDATteAEwUE-41" value="Post Command :&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Jadwal Kuliah&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Jadwal Ujian&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Kalender Akademik&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Mahasiswa Baru&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Kelas Baru&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
@@ -138,22 +129,22 @@
         <mxCell id="39" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3" source="33" target="38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SreQ2rXRPatbkiagibJu-47" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeColor=#FF3333;" edge="1" parent="3" source="SreQ2rXRPatbkiagibJu-45" target="33">
+        <mxCell id="SreQ2rXRPatbkiagibJu-47" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeColor=#FF3333;" parent="3" source="SreQ2rXRPatbkiagibJu-45" target="33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SreQ2rXRPatbkiagibJu-45" value="Formatting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+        <mxCell id="SreQ2rXRPatbkiagibJu-45" value="Formatting" style="rounded=1;whiteSpace=wrap;html=1;" parent="3" vertex="1">
           <mxGeometry x="177" y="492" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4" value="WEBSITE BAAK" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="760" y="128" width="300" height="632" as="geometry" />
         </mxCell>
-        <mxCell id="SreQ2rXRPatbkiagibJu-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#FF3333;endArrow=open;endFill=0;" edge="1" parent="4" source="SreQ2rXRPatbkiagibJu-42" target="SreQ2rXRPatbkiagibJu-43">
+        <mxCell id="SreQ2rXRPatbkiagibJu-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#FF3333;endArrow=open;endFill=0;" parent="4" source="SreQ2rXRPatbkiagibJu-42" target="SreQ2rXRPatbkiagibJu-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SreQ2rXRPatbkiagibJu-42" value="API Request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+        <mxCell id="SreQ2rXRPatbkiagibJu-42" value="API Request" style="rounded=1;whiteSpace=wrap;html=1;" parent="4" vertex="1">
           <mxGeometry x="20" y="112" width="100" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="SreQ2rXRPatbkiagibJu-43" value="Scraping the Information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+        <mxCell id="SreQ2rXRPatbkiagibJu-43" value="Scraping the Information" style="rounded=1;whiteSpace=wrap;html=1;" parent="4" vertex="1">
           <mxGeometry x="170" y="112" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="37" value="" style="edgeStyle=none;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="34" target="SreQ2rXRPatbkiagibJu-42" edge="1">
@@ -165,7 +156,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SreQ2rXRPatbkiagibJu-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="SreQ2rXRPatbkiagibJu-43" target="SreQ2rXRPatbkiagibJu-45">
+        <mxCell id="SreQ2rXRPatbkiagibJu-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="SreQ2rXRPatbkiagibJu-43" target="SreQ2rXRPatbkiagibJu-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="990" y="290" as="sourcePoint" />
           </mxGeometry>
