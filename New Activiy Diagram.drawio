@@ -1,30 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T14:19:03.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_ECEaFXJong_Lb8hsv9u" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T14:19:31.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Nt0EI5VYDhMAep-n11I7" version="20.5.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1483" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="USER" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="100" y="128" width="344.5" height="672" as="geometry" />
+          <mxGeometry x="130" y="128" width="314.5" height="672" as="geometry" />
         </mxCell>
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
-          <mxGeometry x="157.25" y="132" width="30" height="30" as="geometry" />
+          <mxGeometry x="142.25" y="132" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8" value="user action" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
-          <mxGeometry x="117.25" y="220" width="110" height="50" as="geometry" />
+          <mxGeometry x="102.25" y="220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" target="8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="172.25" y="160" as="sourcePoint" />
+            <mxPoint x="157.25" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="8" target="D4_bZYPueLDATteAEwUE-41" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="172.25" y="325" as="targetPoint" />
+            <mxPoint x="157.25" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D4_bZYPueLDATteAEwUE-41" value="Post Command :&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Kalender Akademik&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Chat Message&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
-          <mxGeometry x="92.25" y="380.5" width="160" height="97" as="geometry" />
+          <mxGeometry x="77.25" y="380.5" width="160" height="97" as="geometry" />
         </mxCell>
         <mxCell id="3" value="DISCORD BOT" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="415.5" height="672" as="geometry" />
