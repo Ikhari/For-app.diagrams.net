@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T10:18:27.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="20.6.0" etag="fPGQgQrfXyZglL62mjUW" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-27T10:21:01.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="20.6.0" etag="AC6Ji6zZwUkndeDAb-Us" type="github" pages="2">
   <diagram id="Cg9EsbrclXhCBoa5gcsD" name="Page-1">
     <mxGraphModel dx="1504" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="cYyDVBJHfa4y4d-GkFF0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-13" target="cYyDVBJHfa4y4d-GkFF0-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cYyDVBJHfa4y4d-GkFF0-13" value="Ada sebuah postingan milik &quot;Indra&quot; yang memberi informasi bahwa jika ada yang mengalami cutlose/sangkut maka bisa menghubungi Exchange Seller agar saldonmya dapat kembali sesuai keseluruhan deposit." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-13" value="Ada sebuah postingan milik &quot;Indra&quot; yang memberi informasi bahwa jika ada yang mengalami cutlose/sangkut maka bisa menghubungi Exchange Seller agar saldonya dapat kembali sesuai keseluruhan deposit." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="194" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cYyDVBJHfa4y4d-GkFF0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-25" target="cYyDVBJHfa4y4d-GkFF0-27">
