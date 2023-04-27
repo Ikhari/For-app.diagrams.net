@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T09:12:19.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="20.6.0" etag="1sVrMJo9Q8qAOjSR-WJE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T09:56:47.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="20.6.0" etag="yHdb_js5tsQsePSin1Js" type="github" pages="2">
   <diagram id="Cg9EsbrclXhCBoa5gcsD" name="Page-1">
-    <mxGraphModel dx="1298" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,11 +82,22 @@
         <mxCell id="cYyDVBJHfa4y4d-GkFF0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-48" target="cYyDVBJHfa4y4d-GkFF0-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cYyDVBJHfa4y4d-GkFF0-48" value="Berdasarkan Data Internal, email tersebut, pernah menjadi member indodax dan akun tersebut telah di suspend karena indikasi Penipuan pada tahun XXX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-48" value="Berdasarkan Data Internal, email tersebut, pernah menjadi member indodax dan akun tersebut telah di suspend karena indikasi Penipuan pada tahun 2021" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="599" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cYyDVBJHfa4y4d-GkFF0-50" value="Tim SOC menyerahkan semua informasi kepada Tim Legal untuk di tindak lebih lanjut." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="599" width="250" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ii0CyIakvrbnb5W7sO_P" name="Page-2">
+    <mxGraphModel dx="1278" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ndEXWGV9dsG7EwJluC2U-1" value="Mendapatkan&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
