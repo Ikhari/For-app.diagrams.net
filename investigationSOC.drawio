@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T08:57:04.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="20.6.0" etag="xLn4o7TgAcss-J6z-9Nu" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T09:04:12.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="20.6.0" etag="oBCNLenPtrTYVazEGO4v" type="github">
   <diagram id="Cg9EsbrclXhCBoa5gcsD" name="Page-1">
-    <mxGraphModel dx="865" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,8 +73,20 @@
         <mxCell id="cYyDVBJHfa4y4d-GkFF0-44" value="Pada 10 April 2023, Tim SOC menerima laporan dari Tim CS tentang dugaan penipuan yang dilakukan oleh Julie Yuli Exchanger. Penipu ini menggunakan email &quot;support@lndodax.com&quot; dengan domain yang menggantikan huruf &quot;I&quot; dengan &quot;L&quot; sehingga menjadi &quot;Lndodax.com&quot; atau &quot;lndodax.com&quot;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="475" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cYyDVBJHfa4y4d-GkFF0-46" value="Dari Hasil Investigasi SOC, domain Lndodax.com melakukan Register dari google.com,&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-46" target="cYyDVBJHfa4y4d-GkFF0-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-46" value="Dari Hasil Investigasi SOC, domain Lndodax.com terdaftar dari google.com, dan dari investigasi lebih lanjut Tim SOC menemukan second email yang melakukan pendaftaran domain tersebut adalah &quot;bennymakurai2@gmail.com&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="475" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-48" target="cYyDVBJHfa4y4d-GkFF0-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-48" value="Berdasarkan Data Internal, email tersebut, pernah menjadi member indodax dan akun tersebut telah di suspend karena indikasi Penipuan pada tahun XXX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="630" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-50" value="Tim SOC menyerahkan semua informasi kepada Tim Legal untuk di tindak lebih lanjut." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="630" width="250" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
