@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T08:23:49.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="20.6.0" etag="0YkICDgHAE3tp5MsUwgN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T08:40:32.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="20.6.0" etag="xHkGnbjCPjDbJ5qr_5W9" type="github">
   <diagram id="Cg9EsbrclXhCBoa5gcsD" name="Page-1">
-    <mxGraphModel dx="1221" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,56 @@
         <mxCell id="cYyDVBJHfa4y4d-GkFF0-10" value="Tim SOC menemukan satu grup Facebook bernama &quot;Indodax Indonesia&quot; yang diduga adanya tindakan penipuan." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="220" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-13" target="cYyDVBJHfa4y4d-GkFF0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cYyDVBJHfa4y4d-GkFF0-13" value="Ada sebuah postingan milik &quot;Indra&quot; yang memberi informasi bahwa jika ada yang mengalami cutlose/sangkut maka bisa menghubungi Exchange Seller agar saldonmya dapat kembali sesuai keseluruhan deposit." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="225" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-25" target="cYyDVBJHfa4y4d-GkFF0-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-25" value="Tim SOC mencoba melakukan kontak dengan Indra melalui Facebook Messanger, dengan berpura-pura sebagai member indodax." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="240" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-27" target="cYyDVBJHfa4y4d-GkFF0-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-27" value="Indra memberi kontak facebook Julie Yuli Exchanger yang mengaku sebagai Exchanger Seller." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="370" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-28" target="cYyDVBJHfa4y4d-GkFF0-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-28" value="Tim SOC mencoba melakukan kontak dengan Julie Yuli Exchanger melalui Facebook Messanger, dengan berpura-pura sebagai member indodax." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-32" target="cYyDVBJHfa4y4d-GkFF0-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-32" value="Julie Yuli Exchanger menyuruh kita untuk melakukan Screenshot saldo yang kita punya di Indodax." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-35" target="cYyDVBJHfa4y4d-GkFF0-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-35" value="Dari sini Tim SOC berhenti melakukan kontak dengan Indra dan Julie Yuli Exchanger dan melakukan Investigasi Internal." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="490" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-37" target="cYyDVBJHfa4y4d-GkFF0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-37" value="Tim Legal melanjutkan Investigasi dengan berpura-pura sebagai member indodax dan korban." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="360" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cYyDVBJHfa4y4d-GkFF0-40" target="cYyDVBJHfa4y4d-GkFF0-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-40" value="Tim SOC melanjutkan Investigasi Internal dari data-data yang di berikan oleh Tim CS dan Tim Legal, Seperti melihat Log Transaksi berdasarkan Wallet Address." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cYyDVBJHfa4y4d-GkFF0-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
