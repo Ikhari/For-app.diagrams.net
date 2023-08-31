@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T02:12:11.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="s87QPinoA4Is4VsbarlT" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T16:06:02.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XlpDx2RP5Q7kbLiNFVEn" version="21.7.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1008" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1719" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
         <mxCell id="SreQ2rXRPatbkiagibJu-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#FF3333;endArrow=open;endFill=0;" parent="4" source="SreQ2rXRPatbkiagibJu-42" target="SreQ2rXRPatbkiagibJu-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SreQ2rXRPatbkiagibJu-42" value="API Request" style="rounded=1;whiteSpace=wrap;html=1;" parent="4" vertex="1">
+        <mxCell id="SreQ2rXRPatbkiagibJu-42" value="Request" style="rounded=1;whiteSpace=wrap;html=1;" parent="4" vertex="1">
           <mxGeometry x="20" y="112" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SreQ2rXRPatbkiagibJu-43" value="Scraping the Information" style="rounded=1;whiteSpace=wrap;html=1;" parent="4" vertex="1">
